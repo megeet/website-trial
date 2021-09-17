@@ -1,0 +1,30 @@
+
+  body {
+    background-color: #EAF6F6;
+
+  /*  background-image:url(pexels-jess-bailey-designs-965121.jpg);
+background-size: cover;
+background-repeat:no-repeat;
+background-attachment:fixed;
+background-position:top;
+*/
+}
+
+  hr {
+    background-color: white;
+    border-style: none;
+    border-top: dotted;
+    border-width: 5px;
+    border-color: grey;
+    width: 5%;
+  }
+h1{
+  color: #5e63b6;
+}
+h2{
+  color: #3d84a8;
+}
+
+h3{
+  color: #46cdcf;
+}
